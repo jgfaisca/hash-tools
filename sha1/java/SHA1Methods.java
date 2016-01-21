@@ -3,7 +3,7 @@
  * 
  * Description: SHA1 Methods
  * 
- * Author: Jose Faisca
+ * Author: Jose G. Faisca
  * Date: 2016/01
  */
 
