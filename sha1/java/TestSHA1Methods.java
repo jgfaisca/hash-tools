@@ -13,7 +13,6 @@ public class TestSHA1Methods {
 		System.out.println();
 		System.out.println(SHA1Methods.fileSHA1("test.txt"));
 		System.out.println();
-		System.out.println(SHA1Methods.urlSHA1("https://raw.githubusercontent.com/zekaf/hash-tools/master/java/test.txt"));
-		System.out.println();
+		System.out.println(SHA1Methods.urlSHA1("https://raw.githubusercontent.com/zekaf/hash-tools/master/sha1/java/test.txt"));
 	}
 }
